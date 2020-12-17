@@ -1,0 +1,10 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+
+  "dependencies": {
+    "cross-env": "5.0.5"
+  }
+}

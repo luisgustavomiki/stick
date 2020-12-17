@@ -1,0 +1,12 @@
+.Card {
+  width: 150px;
+  height: 100px;
+}
+
+.Card.blue {
+  background-color: #a3f3ff;
+}
+
+.Card.pink {
+  background-color: #faadff;
+}

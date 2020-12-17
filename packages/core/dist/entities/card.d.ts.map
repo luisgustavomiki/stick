@@ -1,0 +1,1 @@
+{"version":3,"file":"card.d.ts","sourceRoot":"","sources":["../../src/entities/card.ts"],"names":[],"mappings":"AAAA,qBAAa,IAAI;IACf,OAAO,EAAE,MAAM,CAAA;IACf,KAAK,CAAC,EAAE,IAAI,CAAC,KAAK,CAAA;gBAEN,OAAO,EAAE,MAAM,EAAE,KAAK,GAAE,IAAI,CAAC,KAA0B;CAIpE;AAED,yBAAiB,IAAI,CAAC;IACpB,KAAY,KAAK;QACf,IAAI,SAAS;QACb,IAAI,SAAS;QACb,OAAO,SAAO;KACf;CACF"}
